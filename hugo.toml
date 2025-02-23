@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'es'
+title = 'My New Hugo Site'
+theme = 'ananke'
+[params]
+  subtitle = 'Una página de ejemplo'
+  [params.contact]
+  email = 'gonzalez.gatica@gmail.com'
+  phone = '951994599'
